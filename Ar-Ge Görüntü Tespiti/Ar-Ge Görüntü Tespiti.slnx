@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Ar-Ge Görüntü Tespiti/Ar-Ge Görüntü Tespiti.csproj">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
