@@ -30,4 +30,4 @@ Projenin yönetim, efor ve kalite standartlarını doğrulamak adına aşağıda
 
 1. Bu depoyu bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/kullanici_adiniz/repo_adiniz.git](https://github.com/kullanici_adiniz/repo_adiniz.git)
+   git clone https://github.com/EmrAkn59/Resim_ai_analiz
